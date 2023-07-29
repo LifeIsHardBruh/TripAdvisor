@@ -1,6 +1,6 @@
 # TripAdvisor
 Collaborated with one teammate (this repo is the integrated final version of the project)
-
+Check https://github.com/1220780980/TiDB-Hack-Traveling-AI for the development repo
 
 ## Inspiration
 Our Trip Advisor application is an innovative, AI-driven travel planning tool designed to deliver personalized travel itineraries. The app integrates machine learning and weather data to optimize the user's travel experience by recommending suitable landmarks based on weather conditions and preferences.
