@@ -1,5 +1,5 @@
-# TiDB-Hack-Traveling-AI
-
+# TripAdvisor
+Collaborated with one teammate (this repo is the integrated final version of the project)
 
 
 ## Inspiration
