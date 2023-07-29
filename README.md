@@ -21,7 +21,7 @@ Our Trip Advisor application is an innovative, AI-driven travel planning tool de
 
 - Docker Containerization: To ensure smooth deployment and scalability, we used Docker to containerize our application. This provides the flexibility to manage services independently and ensures the application runs the same, regardless of the environment.
 
-- Frontend: We constructed a dynamic, user-friendly frontend using a RESTful API approach that allowed us to create an intuitive and interactive user interface that communicates seamlessly with our backend services.
+- Frontend: We constructed a dynamic, user-friendly frontend using a RESTful API approach that allowed us to create an intuitive and interactive user interface that communicates seamlessly with our backend services. We used HTML, CSS and JavaScript and leveraged AJAX using the XMLHttpRequest object for asynchronous data retrieval from the server.
 
 - Recommendation System: We developed a machine learning-driven recommendation system. The models are trained on several landmark attributes including total occurrence, neighbour occurrence, and transportation time, to generate personalized recommendations based on user preferences.
 
